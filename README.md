@@ -26,6 +26,6 @@ I am starting my journey in software engineering but with web development first.
 
 ## Contact
 **Email:** andrewsnyarko927@gmail.com ✉️  
-**LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/andrews-nyarko-82a950368/) 💼
+**LinkedIn:** https://www.linkedin.com/in/andrews-nyarko-82a950368/ 💼
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
