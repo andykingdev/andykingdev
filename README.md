@@ -1,16 +1,31 @@
-## Hi there 👋
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# I'm Andrews Nyarko 👋
 
-<!--
-**andykingdev/andykingdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer (Beginner)** — learning to build web apps with HTML, CSS, JavaScript, and React ⚡
 
-Here are some ideas to get you started:
+## About
+I am starting my journey in software engineering but with web development first. I build simple, accessible pages with HTML, style them with CSS, and make them interactive using JavaScript. I am currently learning **React.js** and **MySQL**, and exploring other tools and best practices 🚀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Core:** HTML5; CSS3; JavaScript 📝  
+**Learning:** React.js; MySQL; Git & GitHub; basic REST APIs 📚  
+**Tools:** VS Code; Chrome DevTools; npm 🛠️
+
+## Projects
+-
+-
+
+## What I'm Learning Now
+- **React.js** for building component-based UIs ⚛️  
+- **MySQL** for backend data storage 🗄️  
+- **Git workflows** and deploying simple projects ✨
+
+## How to view my work
+- Visit my repositories to see code and README demos.  
+- Check the live links in each project when available.
+
+## Contact
+**Email:** andrewsnyarko927@gmail.com ✉️  
+**LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/andrews-nyarko-82a950368/) 💼
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
