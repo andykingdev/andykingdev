@@ -1,10 +1,10 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # I'm Andrews Nyarko 👋
 
-**Frontend Developer (Beginner)** — learning to build web apps with HTML, CSS, JavaScript, and React ⚡
+**Frontend Developer (junior)** — learning to build web apps with HTML, CSS, JavaScript, and React ⚡
 
 ## About
-I am starting my journey in software engineering but with web development first. I build simple, accessible pages with HTML, style them with CSS, and make them interactive using JavaScript. I am currently learning **React.js** and **MySQL**, and exploring other tools and best practices 🚀.
+I am beginning my journey in software engineering but with web development concept. I build simple, accessible pages with HTML, style them with CSS, and make them interactive using JavaScript. I am currently learning **React.js** and **MySQL**, and exploring other tools and best practices 🚀.
 
 ## Skills
 **Core:** HTML5; CSS3; JavaScript 📝  
