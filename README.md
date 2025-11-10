@@ -12,7 +12,7 @@ I am beginning my journey in software engineering but with web development conce
 **Tools:** VS Code; Chrome DevTools; npm 🛠️
 
 ## Projects
--
+- https://1clickaluminiumsystems.netlify.app/ (Portfolio website for 1click Aluminium Systems)
 -
 
 ## What I'm Learning Now
